@@ -4,7 +4,7 @@
   "acceptanceProbe": false,
   "probeMarkerScanPassed": true,
   "builtUtc": "2026-11-04T21:44:46.301461+00:00",
-  "packagedUtc": "2026-11-04T21:45:20.051379+00:00",
+  "packagedUtc": "2026-11-04T21:50:36.543102+00:00",
   "build": {
     "success": true,
     "errors": 0,
@@ -20,7 +20,7 @@
     "Build/WebGL.framework.js.unityweb": "f34f249ba304863ec1c08a8ff60b85d0a88a8231f9ea2d54dcbf9e6e48fb9c96",
     "Build/WebGL.loader.js": "844d1daa5e06623701399e19f26d6f55b29b8bc749cca392a8844913fa74fb4a",
     "Build/WebGL.wasm.unityweb": "6ae7dba4944e2c8606c47a82300824430bbd4fdc973bb73cede98ab2a53f7e1b",
-    "index.html": "43670ca736848d341e2ed089f558c1a9947bcba6c4eb66f0b997cc8786dc874f",
+    "index.html": "c2d4cca3e26d084744c0725dce0cba8e3e2acf3ec399edabe126a28c6f0bec93",
     "TemplateData/favicon.ico": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f",
     "TemplateData/fullscreen-button.png": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9",
     "TemplateData/MemoryProfiler.png": "0ce87be20d0c24ab6cb73b57de2004da261cc2a641e69319c6ae3fe11fc85483",
